@@ -32,7 +32,7 @@
 
 
 
-    <div class="videoPlayer">
+    <div class="videoPlayer" style="margin-top: 50px">
         <?= $videoLink ?>
     </div>
 
